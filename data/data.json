@@ -1,0 +1,34 @@
+[
+    {
+        "maskapai": "Garuda",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": 100000,
+        "totalPajak": 50000,
+        "totalHargaTiket": 150000
+    },
+    {
+        "maskapai": "Citilink",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": 120000,
+        "totalPajak": 40000,
+        "totalHargaTiket": 160000
+    },
+    {
+        "maskapai": "Batik",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": 110000,
+        "totalPajak": 50000,
+        "totalHargaTiket": 160000
+    },
+    {
+        "maskapai": "Air asia",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": 90000,
+        "totalPajak": 50000,
+        "totalHargaTiket": 140000
+    }
+]
